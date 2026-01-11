@@ -29,3 +29,22 @@ nav{
     max-width: 139px;
     /* margin-left: 120px; */
 }
+.btn{
+  background-color: #30B868;
+  border: none;
+  padding: 16px 12px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.link-parent{
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+.link-parent a{
+  text-decoration: none;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+}   
