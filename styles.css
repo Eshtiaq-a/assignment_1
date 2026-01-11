@@ -1,0 +1,31 @@
+*.inter {
+  font-family: "Intr", sans-serif;
+  font-optical-sizing: auto;
+}
+
+nav{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+  padding-top: 16px auto;
+  padding-left: 120px;
+
+  
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 120px;
+    background-color: #FFFFFF;
+    height: 80px;
+}
+
+
+.logo {
+    max-width: 139px;
+    /* margin-left: 120px; */
+}
